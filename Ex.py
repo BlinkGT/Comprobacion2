@@ -16,11 +16,11 @@ GRAVEDAD = 9.81 # Acceleration due to gravity in m/s^2
 # IMPORTANT: These paths are placeholders. You MUST replace them with the direct public URLs
 # from your GitHub repository (e.g., https://github.com/your_username/your_repo/raw/main/images/graficadesplazamiento.jpg)
 pregunta_imagenes = {
-    0: "images/graficadesplazamiento.jpg", # Para la Pregunta 1 (Desplazamiento vs. Tiempo)
-    1: "images/graficadesplazamiento.jpg", # Para la Pregunta 2 (Desplazamiento vs. Tiempo)
-    2: "images/graficadesplazamiento.jpg", # Para la Pregunta 3 (Desplazamiento vs. Tiempo)
-    3: "images/graficavelocidad.jpg",      # Para la Pregunta 4 (Velocidad vs. Tiempo)
-    4: "images/graficavelocidad.jpg"       # Para la Pregunta 5 (Velocidad vs. Tiempo)
+    0: "images2/1.jpg", # Para la Pregunta 1 (Desplazamiento vs. Tiempo)
+    1: "images2/2.jpg", # Para la Pregunta 2 (Desplazamiento vs. Tiempo)
+    2: "images2/3.png", # Para la Pregunta 3 (Desplazamiento vs. Tiempo)
+    3: "images2/4.jpg",      # Para la Pregunta 4 (Velocidad vs. Tiempo)
+    4: "images2/5.jpg"       # Para la Pregunta 5 (Velocidad vs. Tiempo)
 }
 
 
